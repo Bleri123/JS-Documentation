@@ -72,7 +72,8 @@ section li {
 }
 
 code {
-    color: white bold;
+    color: white;
+    font-weight: bold;
     display: block;
     text-align: left;
     white-space: pre-line;
