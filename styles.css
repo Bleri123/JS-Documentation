@@ -72,7 +72,7 @@ section li {
 }
 
 code {
-    color: black;
+    color: white bold;
     display: block;
     text-align: left;
     white-space: pre-line;
